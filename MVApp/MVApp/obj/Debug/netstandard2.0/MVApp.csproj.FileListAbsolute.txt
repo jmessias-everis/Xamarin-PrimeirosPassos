@@ -1,0 +1,12 @@
+C:\Users\jmessias\source\repos\MVApp\MVApp\MVApp\bin\Debug\netstandard2.0\MVApp.deps.json
+C:\Users\jmessias\source\repos\MVApp\MVApp\MVApp\bin\Debug\netstandard2.0\MVApp.dll
+C:\Users\jmessias\source\repos\MVApp\MVApp\MVApp\bin\Debug\netstandard2.0\MVApp.pdb
+C:\Users\jmessias\source\repos\MVApp\MVApp\MVApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jmessias\source\repos\MVApp\MVApp\MVApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jmessias\source\repos\MVApp\MVApp\MVApp\obj\Debug\netstandard2.0\MVApp.csproj.CoreCompileInputs.cache
+C:\Users\jmessias\source\repos\MVApp\MVApp\MVApp\obj\Debug\netstandard2.0\MVApp.AssemblyInfoInputs.cache
+C:\Users\jmessias\source\repos\MVApp\MVApp\MVApp\obj\Debug\netstandard2.0\MVApp.AssemblyInfo.cs
+C:\Users\jmessias\source\repos\MVApp\MVApp\MVApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jmessias\source\repos\MVApp\MVApp\MVApp\obj\Debug\netstandard2.0\MVApp.dll
+C:\Users\jmessias\source\repos\MVApp\MVApp\MVApp\obj\Debug\netstandard2.0\MVApp.pdb
+C:\Users\jmessias\source\repos\MVApp\MVApp\MVApp\obj\Debug\netstandard2.0\Views\LivrosView.xaml.g.cs

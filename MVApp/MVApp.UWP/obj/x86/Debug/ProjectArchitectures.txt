@@ -1,0 +1,1 @@
+C:\Users\jmessias\source\repos\MVApp\MVApp\MVApp.UWP\MVApp.UWP.csproj;x86
